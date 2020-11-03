@@ -1,5 +1,5 @@
 """
-APY Key: http://www.omdbapi.com/?i=tt3896198&apikey=cd71e660
+API Key: http://www.omdbapi.com/?i=tt3896198&apikey=cd71e660
 """
 
 import requests
